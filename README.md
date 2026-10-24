@@ -119,7 +119,3 @@ All data is kept in memory while the program runs.
 - Support decimal prices and explicit product quantities.
 - Add an order-history option.
 - Add stock management and payment processing if required.
-
-## License
-
-No license is specified in the current project file. Add a license separately if you intend to publish or distribute the project.
